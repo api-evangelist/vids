@@ -1,0 +1,45 @@
+aid: vids
+name: Google Vids
+description: >-
+  Google Vids is an AI-powered video creation and editing application in
+  Google Workspace that enables business users to produce professional
+  videos without design expertise by combining Gemini-assisted outlining,
+  Veo 3 generative video clips, AI avatars, recording studio capabilities,
+  and a royalty-free stock media library. Vids is available on Business
+  and Enterprise Workspace plans as well as Google AI Pro and Ultra
+  consumer plans, with collaboration handled through standard Workspace
+  sharing controls. There is no public developer REST API for Google Vids
+  at this time; this index tracks the product as a documentation-only
+  reference.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Video Creation
+  - AI Video
+  - Google Workspace
+  - Generative AI
+  - Collaboration
+  - Productivity
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/vids/refs/heads/main/apis.yml
+created: '2026-05-11'
+modified: '2026-05-11'
+specificationVersion: '0.19'
+apis: []
+
+common:
+  - type: Website
+    url: https://workspace.google.com/products/vids/
+  - type: Documentation
+    url: https://support.google.com/vids
+  - type: Pricing
+    url: https://workspace.google.com/pricing.html
+  - type: Sign Up
+    url: https://workspace.google.com/products/vids/
+  - type: Help Center
+    url: https://support.google.com/vids
+  - type: Workspace Learning Center
+    url: https://support.google.com/a/users/answer/9282720
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
