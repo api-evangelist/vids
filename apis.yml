@@ -34,7 +34,7 @@ common:
     url: https://support.google.com/vids
   - type: Pricing
     url: https://workspace.google.com/pricing.html
-  - type: Sign Up
+  - type: SignUp
     url: https://workspace.google.com/products/vids/
   - type: Help Center
     url: https://support.google.com/vids
