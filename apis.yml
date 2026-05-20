@@ -28,6 +28,8 @@ specificationVersion: '0.19'
 apis: []
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/googleworkspace
   - type: Website
     url: https://workspace.google.com/products/vids/
   - type: Documentation
